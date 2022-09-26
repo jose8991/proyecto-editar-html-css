@@ -444,7 +444,9 @@ body {
 }
 
 .footer__icon {
-  margin-top: 3px;
+  margin-top: 0px;
+  width: 35px;
+  height: 35px;
 }
 
 .footer__nav {
@@ -477,6 +479,8 @@ body {
 
 .footer__media--last {
   margin-right: 0;
+  width: 40px;
+  height: 40px;
 }
 
 @keyframes move_vector {
